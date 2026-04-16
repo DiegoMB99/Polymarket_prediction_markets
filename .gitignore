@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+
+# Data files - too large for GitHub
+*.csv
+*.parquet
+*.json
+data/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
